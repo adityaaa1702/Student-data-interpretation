@@ -11,7 +11,4 @@ The Educational Data Analysis Toolkit is a Python library designed to facilitate
 - Visualization of quality of time spent by students on each test.
 
 ## Installation
-To install the Educational Data Analysis Toolkit, you can simply clone this repository or install it via pip:
-
-```bash
-pip install educational-data-analysis-toolkit
+To install the Educational Data Analysis Toolkit, you can simply clone this repository.
